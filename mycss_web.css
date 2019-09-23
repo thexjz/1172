@@ -1,15 +1,23 @@
 @charset "utf-8";
 /* CSS Document */
-
-
-h1 {
-  text-align: center;
-  color: red;
-}
-
 * {
 	background-color: #d8d8d8;
 	font-family: aktiv-grotesk, sans-serif;
 	font-style: normal;
 	font-weight: 200;
 	}
+
+h1 {
+  text-align: left;
+  color: red;
+}
+
+
+div {
+	text-align: left;
+}
+
+#top{
+	font-weight: 200;
+	text-decoration: none
+}
