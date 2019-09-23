@@ -8,5 +8,8 @@ h1 {
 }
 
 * {
-  background-color: #d8d8d8;
+	background-color: #d8d8d8;
+	font-family: aktiv-grotesk, sans-serif;
+	font-style: normal;
+	font-weight: 200;
 	}
