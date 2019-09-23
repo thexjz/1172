@@ -18,6 +18,8 @@ div {
 }
 
 #top {
+	font-family: aktiv-grotesk, sans-serif;
 	font-weight: 200;
+	font-style: bold;
 	text-decoration: none;
 }
